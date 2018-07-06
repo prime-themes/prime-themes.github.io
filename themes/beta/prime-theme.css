@@ -1,0 +1,286 @@
+/* BASE */
+input { background: #dadada !important; }
+textarea { background: #dadada !important; }
+html, body { background: #181818 !important; }
+
+/* MAIN PAGE */
+/* Header */
+.hXKaop { background: #212121 !important; } /* background for header */
+
+.JyLgk, .iVHNND { background: #141414 !important; } /* background for wallet */
+.gdYqHM { background: #141414 !important; }
+.gdYqHM:before { border-bottom-color: #141414 !important; }
+
+/* More - dropdown */
+.jIxfdp:before { border-bottom-color: silver !important; } /* triangle */
+
+.jIxfdp a, .jIxfdp button { /* dd background, border and text-color */
+  background: silver !important; 
+  border-bottom-color: #a7a7a7 !important;
+  color: #181818 !important;
+}
+.jIxfdp a:hover, .jIxfdp button:hover { /* hover effect */
+  background: #a7a7a7 !important;
+}
+
+/* Account - dropdown */
+.lcSQSD:before { border-bottom-color: #141414 !important; }
+
+.lcSQSD a, .lcSQSD button {
+  background: silver !important; 
+  border-bottom-color: #a7a7a7 !important;
+  color: #181818 !important;
+}
+.lcSQSD a:hover, .lcSQSD button:hover {
+  background: #a7a7a7 !important;
+}
+
+/* Content */
+.jOFkhD, .BdKep, .xQDIz { background: #181818 !important; } /* main background */
+
+/* Game Field */
+.hDkoaK {
+  background: silver !important;
+  box-shadow: 0 15px 35px rgba(192,192,192,0.1) !important;
+}
+
+.jADjyJ { background: gray !important; }
+
+.rzdQQ { color: silver !important; }
+
+.rzdQQ[disabled] { /* tab background */
+  color: #181818 !important;
+  background: silver !important;
+}
+.hJaxNE { color: silver !important; }
+.hJaxNE[disabled] {
+  color: #181818 !important;
+  background: silver !important;
+}
+
+.jqykZk { color: #181818 !important; }
+
+/* fields names */
+.VRVEX, .hCRGGY { color: #181818 !important; }
+
+/* bet amount */
+.jmIhPW .sc-hwwEjo {
+  background: #dadada !important;
+  border-color: #a7a7a7 !important;
+}
+.kShqLy input { border-color: #a7a7a7 !important; }
+
+.jXXdGg { /* first button */
+  background: #a7a7a7 !important;
+  color: #181818 !important;
+}
+.jXXdGg:hover {
+  background: #8d8d8d !important;
+  color: white !important;
+}
+.jXXdGg:before {
+  content: '';
+  position: absolute;
+  top: 20%;
+  left: -1px;
+  width: 2px;
+  height: 60%;
+  background: gray !important;
+  pointer-events: none;
+}
+
+.kNLmEM { /* second button */
+  background: #a7a7a7 !important;
+  color: #181818 !important;
+}
+.kNLmEM:hover {
+  background: #8d8d8d !important;
+  color: white !important;
+}
+.kNLmEM:before {
+  content: '';
+  position: absolute;
+  top: 20%;
+  left: -1px;
+  width: 2px;
+  height: 60%;
+  background: gray !important;
+  pointer-events: none;
+}
+
+.khTcLd { /* third button */
+  background: #a7a7a7 !important;
+  color: #181818 !important;
+}
+.khTcLd:hover {
+  background: #8d8d8d !important;
+  color: white !important;
+}
+.khTcLd:before {
+  content: '';
+  position: absolute;
+  top: 20%;
+  left: -1px;
+  width: 2px;
+  height: 60%;
+  background: gray !important;
+  pointer-events: none;
+}
+
+/* profit on win */
+.iaYgzI {
+  color: #181818 !important;
+  background: #dadada !important;
+}
+
+/* Params */
+.isZPZX { background: #a7a7a7 !important; } /* main bg */
+
+.kUZHgx { background: #dadada !important; } /* bg ROTW */
+.huAajN { color: #181818 !important; } /* color inside ROTW */
+
+.itCQwm .sc-hwwEjo { background: #a7a7a7 !important; } /* PAYOUT, WIN CHANGE bg */
+.itCQwm .sc-kIPQKe { color: #181818 !important; } /* PAYOUT and WIN CHANGE color */
+.itCQwm input:focus { background: #dadada !important; }
+
+.fJJmVq { color: #181818 !important; } /* percent symbols */
+
+/* autobet params */
+.dfhOju, .dvDTU { color: #181818 !important; } /* on-loss, on-win color */
+
+.mWhbP { background: #a7a7a7 !important; } /* OL, OW bg */
+.FDVfg { background: #212121 !important; } /* reset to base bg */
+.dlwGoN { color: #212121 !important; }
+
+.kmXawo span { color: #181818 !important; }
+.kmXawo input {
+  border: 1px solid #a7a7a7 !important;
+  color: #181818 !important;
+}
+
+.hVdCPD .sc-kIPQKe { color: #181818 !important; } /* stop on- text color */
+.hVdCPD .sc-hwwEjo { border: 2px solid #a7a7a7; }
+
+/* Game Field and Live stats */
+.bduWPP {
+  background: silver !important;
+  box-shadow: 0 15px 35px rgba(192,192,192,0.1) !important;
+}
+.kSbByc {
+  background: silver !important;
+  box-shadow: 0 15px 35px rgba(192,192,192,0.1) !important;
+}
+
+.ckYzXt { color: white !important; }
+
+.eMWzdi, .dcBqHi, .fJCGlo { background: #101010 !important; } /* live stats bg */
+.fKhgoN { background: #141414 !important; } /* header bg */
+
+/* Second Section */
+.kFSRjF { background: #cdcdcd !important; } /* main bg */
+
+/* bets menu */
+.ctxtFZ {
+  color: #737373 !important;
+  border-bottom: 2px solid #737373 !important;
+}
+
+.hLxKkk { /* tab is active */
+  color: #181818 !important;
+  border-color: #181818 !important;
+}
+
+/* Table Columns */
+.dBAxRG li { color: #181818 !important; }
+
+/* columns text color */
+.fnRyZF, .fhBCBX, .SHyQX { color: #181818; }
+
+/* Jackpot Section */
+.jackpot { background: #cdcdcd !important; }
+
+.oDwCd { box-shadow: 0 0 0 2px gray !important; }
+.czxUUX { color: #181818 !important; }
+
+/* Footer Section */
+.ktaBlB { background: #181818 !important; }
+
+/* Chat Room */
+.czUvkE { background: #101010 !important; } /* main bg */
+.cdyuae { background: #060606 !important; } /* header bg */
+.dWJajq, .bsXKwe, .bHlVVG { background: #040404 !important; } /* messages */
+.chat__footer { background: #020202 !important; } /* chat footer */
+.fEiKjR { background: #101010 !important; } /*chat settings */
+
+/* Modals */
+.modal__overlay { background: rgba(0,0,0,0.5) !important; } /* dark overlay */
+
+.iIBxtE { color: #181818 !important; }
+
+.modal__content { /* maing bg */
+  background: #212121 !important;
+  color: white !important;
+}
+.fair__modal__content__footer { background: #181818 !important } /* footer bg */
+
+/* deposit, withdrawal */
+.bBkjIw, .dGPmlg, .brrTYC { background: #181818 !important; }
+.bBkjIw h3, .dGPmlg, .brrTYC h3, .guUKRI > p { color: white !important; }
+.bPpoaw, .caXRFR, .guUKRI .hVdCPD .sc-kIPQKe { color: silver !important; }
+
+/* faucet */
+.coKwPj { background: transparent !important; }
+
+/* Settings */
+.hygTw { background: #181818 !important; }
+.hygTw h3 { color: white !important; }
+
+.gjqxMA .hVdCPD .sc-kIPQKe, .iAhCHv .hVdCPD .sc-kIPQKe, .foUfei { color: silver !important; }
+
+.kCMDXg tbody tr:nth-child(2n), .kCMDXg thead tr { background: #181818 !important; }
+
+.iEbtXG.is-active {
+  color: white !important;
+  border-color: white !important;
+}
+
+/* MESSAGES*/
+.itDEIe { background: gray !important; } /* overlay bg */
+.lnoSmA { background: #212121 !important; } /* main bg */
+
+.ingjyQ { background: silver !important; } /* plus button */
+
+.dXfkBJ { border-right-color: rgba(255,255,255,0.1); } /* right border color */
+
+.fteSvp, .hzMEMe { border-bottom-color: rgba(255,255,255,0.1); } /* header bb */
+
+.itDEIe, .egRxVb, .egRxVb { color: silver !important; } /* main text color */
+.doEnVV p { color: white !important; }
+
+.egRxVb.is-active { background: #181818 !important; } /* tab is active */
+
+/* input */
+.ikkFcM { background: transparent !important; }
+.ikkFcM, input.ikkFcM::-webkit-input-placeholder { color: silver !important; } /* placeholder color */
+
+.cQCMcr { border-top-color: rgba(255,255,255,0.1); } /* input border-top color */
+
+/* Statistic */
+.account__nav, .faq__nav, .hall__nav { background: #181818 !important; } /* header bg */
+
+.account, .faq, .hall { /* main color and bg */
+  color: #181818;
+  background: silver !important;
+}
+
+.account__statistics__wrap { background: #a7a7a7 !important; }
+
+.ibSGvM { color: #181818 !important; } /* coins tab color */
+
+.account__statistics__item.has-break::after { background: gray !important; } /* separator color */
+
+.account__footer { background: silver !important; }
+
+.iPkLao { /* button styles */
+  background: gray !important;
+}
