@@ -226,6 +226,13 @@ html, body { background: #181818 !important; }
   color: white !important;
 }
 .fair__modal__content__footer { background: #181818 !important } /* footer bg */
+.fair__modal__content__footer strong { color: white !important; }
+
+/* fairness */
+.kvAugU .iIBxtE { color: white !important; }
+
+/* users modals */
+.LMDPS { background: #181818 !important; }
 
 /* deposit, withdrawal */
 .bBkjIw, .dGPmlg, .brrTYC { background: #181818 !important; }
