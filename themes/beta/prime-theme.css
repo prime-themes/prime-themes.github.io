@@ -1,3 +1,7 @@
+/* Dark Theme For PrimeDice
+ * Author: VladImpaler
+ */
+
 /* BASE */
 input { background: #dadada !important; }
 textarea { background: #dadada !important; }
@@ -275,7 +279,7 @@ html, body { background: #181818 !important; }
 
 .account__statistics__wrap { background: #a7a7a7 !important; }
 
-.ibSGvM { color: #181818 !important; } /* coins tab color */
+.ibSGvM, .hrWBLm { color: #181818 !important; } /* coins tab color */
 
 .account__statistics__item.has-break::after { background: gray !important; } /* separator color */
 
@@ -284,3 +288,24 @@ html, body { background: #181818 !important; }
 .iPkLao { /* button styles */
   background: gray !important;
 }
+
+/* affilate */
+.dxxkhk .iEbtXG.is-active { /* active tab */
+  color: #181818 !important;
+  border-color: #181818 !important;
+}
+.iEbtXG { /* std tab */
+  color: #737373 !important;
+  border-color: #737373 !important;
+}
+
+.bjLJsz > p { color: #181818 !important; }
+.VvRwF { opacity: 0.8 !important; }
+
+/* HALL OF FAME */
+.eBgMGf {
+  color: #737373 !important;
+  border-bottom-color: #737373 !important;
+}
+
+.hall__lists { background: #cdcdcd !important; } /* lists bg */
