@@ -48,7 +48,7 @@ html, body { background: #181818 !important; }
   box-shadow: 0 15px 35px rgba(192,192,192,0.1) !important;
 }
 
-.jADjyJ { background: gray !important; }
+.jADjyJ, .ieomwm { background: gray !important; }
 
 .rzdQQ { color: silver !important; }
 
@@ -233,6 +233,12 @@ html, body { background: #181818 !important; }
 
 /* users modals */
 .LMDPS { background: #181818 !important; }
+.cCNrdd { background: #181818 !important; }
+.bet-info__modal__content p { color: silver !important; }
+.eSpnpR {
+  background: silver !important;
+  color: #181818 !important;
+}
 
 /* deposit, withdrawal */
 .bBkjIw, .dGPmlg, .brrTYC { background: #181818 !important; }
